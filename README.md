@@ -1,8 +1,9 @@
 Hi, I’m @Riti-Botha
 
-- 🌱 I’m currently learning Delphi and SQL at High School Menlopark.
-- ✨ I attended the Girls Who Code Self-Paced Program in 2023.
+- 🌱 I’m currently a second-year Computer Science student at University of Pretoria.
 - 💚 I won a joint award for being the top Information Technology student of my class in 2023.
+- ✨ I attended the Girls Who Code Self-Paced Program in 2023.
+
 
 
 <!---
